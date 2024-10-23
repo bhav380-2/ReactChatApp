@@ -32,4 +32,5 @@ This is a simple chat application built using **React**. The application allows 
    npm start
 
 ## Hosted Link
+https://bhav380-2.github.io/ReactChatApp/
 
